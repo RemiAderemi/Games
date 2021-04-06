@@ -1,0 +1,8 @@
+/* make a 3 X4 square grid...this is bcos our card are 100px x100px */
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height:300px ;
+    width: 400px;
+
+}
