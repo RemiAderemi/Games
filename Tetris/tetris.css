@@ -1,0 +1,25 @@
+.grid{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 800px;
+    
+}
+div{
+    background-color: yellow;
+    height:40px;
+    width:40px
+}
+.brick{
+    background-color: blue;
+}
+
+
+.custom_class{
+    color: pink;
+}
+
+.taken{
+    background-color: burlywood;
+}
